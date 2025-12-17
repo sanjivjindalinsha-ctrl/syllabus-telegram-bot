@@ -9,8 +9,11 @@ from telegram.ext import (
     ContextTypes,
 )
 
+import os
 BOT_TOKEN = os.environ.get("BOT_TOKEN")
-print("BOT_TOKEN value:", BOT_TOKEN)
+
+if not BOT_TOKEN:
+    raise RuntimeError("BOT_TOKEN not found in environment variables")
 # Load JSON file
 with open("syllabus.json", "r") as f:
     raw = json.load(f)
