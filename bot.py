@@ -1,3 +1,5 @@
+import telegram
+print("RUNNING PTB VERSION:", telegram.__version__)
 import os
 import json
 from telegram import Update, InlineKeyboardButton, InlineKeyboardMarkup
