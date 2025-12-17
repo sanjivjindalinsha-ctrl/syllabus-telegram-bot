@@ -74,8 +74,9 @@ async def subject_handler(update: Update, context: ContextTypes.DEFAULT_TYPE):
         f"{context.user_data['course']} – {context.user_data['semester']}\n\n"
         f"{subject_name} – Theory Syllabus\n\n{syllabus_text}"
     )
-
+     print("BOT_TOKEN value:", BOT_TOKEN)
 async def main():
+    
     app = ApplicationBuilder().token(BOT_TOKEN).build()
 
     app.add_handler(CommandHandler("start", start))
