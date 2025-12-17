@@ -10,7 +10,7 @@ from telegram.ext import (
 )
 
 BOT_TOKEN = os.environ.get("BOT_TOKEN")
-
+print("BOT_TOKEN value:", BOT_TOKEN)
 # Load JSON file
 with open("syllabus.json", "r") as f:
     raw = json.load(f)
@@ -73,8 +73,7 @@ async def subject_handler(update: Update, context: ContextTypes.DEFAULT_TYPE):
     await query.message.reply_text(
         f"{context.user_data['course']} – {context.user_data['semester']}\n\n"
         f"{subject_name} – Theory Syllabus\n\n{syllabus_text}"
-    )
-     print("BOT_TOKEN value:", BOT_TOKEN)
+    ) 
 async def main():
     
     app = ApplicationBuilder().token(BOT_TOKEN).build()
