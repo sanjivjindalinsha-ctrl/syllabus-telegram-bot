@@ -238,7 +238,7 @@ def main():
     app.run_webhook(
         listen="0.0.0.0",
         port=8443,
-        webhook_url="YOUR_RENDER_WEBHOOK_URL"
+        webhook_url="https://syllabus-telegram-bot.onrender.com"
     )
 
 
