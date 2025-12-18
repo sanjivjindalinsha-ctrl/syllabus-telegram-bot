@@ -14,15 +14,16 @@ from telegram.ext import (
 
 # ----------------- LOAD DATA -----------------
 
-DATA_DIR = Path("data")
+
+
+BASE_DIR = Path(__file__).resolve().parent
+DATA_DIR = BASE_DIR / "data"
 
 with open(DATA_DIR / "courses.json", encoding="utf-8") as f:
     COURSES = json.load(f)["courses"]
 
 with open(DATA_DIR / "syllabus.json", encoding="utf-8") as f:
     SYLLABUS = json.load(f)
-
-
 # ----------------- KEYBOARD BUILDERS -----------------
 
 def build_course_keyboard():
