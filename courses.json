@@ -1,0 +1,27 @@
+{
+  "courses": {
+    "BSC_PHYSICAL_SCIENCE": {
+      "display_name": "B.Sc Physical Science",
+      "duration_semesters": 6,
+      "degree_type": "UG"
+    },
+
+    "BSC_LIFE_SCIENCE": {
+      "display_name": "B.Sc Life Science",
+      "duration_semesters": 6,
+      "degree_type": "UG"
+    },
+
+    "BA": {
+      "display_name": "B.A",
+      "duration_semesters": 6,
+      "degree_type": "UG"
+    },
+
+    "BCOM": {
+      "display_name": "B.Com",
+      "duration_semesters": 6,
+      "degree_type": "UG"
+    }
+  }
+}
