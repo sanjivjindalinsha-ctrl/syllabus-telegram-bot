@@ -1,0 +1,185 @@
+{
+  "BSC_PHYSICAL_SCIENCE": {
+    "semesters": {
+      "1": {
+        "core_subjects": [],
+        "major_minor_choice": {
+          "enabled": true,
+          "major_options": ["PHYSICS", "CHEMISTRY"],
+          "minor_options": ["MATHEMATICS", "COMPUTER_SCIENCE"]
+        },
+        "common_components": ["AEC", "MDC", "SEC", "VAC"]
+      },
+
+      "2": {
+        "core_subjects": [],
+        "major_minor_choice": {
+          "enabled": true,
+          "major_options": ["PHYSICS", "CHEMISTRY"],
+          "minor_options": ["MATHEMATICS", "COMPUTER_SCIENCE"]
+        },
+        "common_components": ["AEC", "MDC", "SEC", "VAC"]
+      },
+
+      "3": {
+        "core_subjects": ["PHYSICS", "CHEMISTRY", "MATHEMATICS"],
+        "major_minor_choice": { "enabled": false },
+        "common_components": ["AEC", "MDC", "SEC", "VAC"]
+      },
+
+      "4": {
+        "core_subjects": ["PHYSICS", "CHEMISTRY", "MATHEMATICS"],
+        "major_minor_choice": { "enabled": false },
+        "common_components": ["AEC", "MDC", "SEC", "VAC"]
+      },
+
+      "5": {
+        "core_subjects": ["PHYSICS", "CHEMISTRY"],
+        "major_minor_choice": { "enabled": false },
+        "common_components": []
+      },
+
+      "6": {
+        "core_subjects": ["PHYSICS", "CHEMISTRY"],
+        "major_minor_choice": { "enabled": false },
+        "common_components": []
+      }
+    }
+  },
+
+  "BSC_LIFE_SCIENCE": {
+    "semesters": {
+      "1": {
+        "core_subjects": [],
+        "major_minor_choice": {
+          "enabled": true,
+          "major_options": ["BOTANY", "ZOOLOGY"],
+          "minor_options": ["CHEMISTRY", "COMPUTER_SCIENCE"]
+        },
+        "common_components": ["AEC", "MDC", "SEC", "VAC"]
+      },
+
+      "2": {
+        "core_subjects": [],
+        "major_minor_choice": {
+          "enabled": true,
+          "major_options": ["BOTANY", "ZOOLOGY"],
+          "minor_options": ["CHEMISTRY", "COMPUTER_SCIENCE"]
+        },
+        "common_components": ["AEC", "MDC", "SEC", "VAC"]
+      },
+
+      "3": {
+        "core_subjects": ["BOTANY", "ZOOLOGY", "CHEMISTRY"],
+        "major_minor_choice": { "enabled": false },
+        "common_components": ["AEC", "MDC", "SEC", "VAC"]
+      },
+
+      "4": {
+        "core_subjects": ["BOTANY", "ZOOLOGY", "CHEMISTRY"],
+        "major_minor_choice": { "enabled": false },
+        "common_components": ["AEC", "MDC", "SEC", "VAC"]
+      },
+
+      "5": {
+        "core_subjects": ["BOTANY", "ZOOLOGY"],
+        "major_minor_choice": { "enabled": false },
+        "common_components": []
+      },
+
+      "6": {
+        "core_subjects": ["BOTANY", "ZOOLOGY"],
+        "major_minor_choice": { "enabled": false },
+        "common_components": []
+      }
+    }
+  },
+
+  "BA": {
+    "semesters": {
+      "1": {
+        "core_subjects": [],
+        "major_minor_choice": {
+          "enabled": true,
+          "major_options": ["HINDI", "ENGLISH"],
+          "minor_options": ["HISTORY", "POLITICAL_SCIENCE"]
+        },
+        "common_components": ["AEC", "MDC", "SEC", "VAC"]
+      },
+
+      "2": {
+        "core_subjects": [],
+        "major_minor_choice": {
+          "enabled": true,
+          "major_options": ["HINDI", "ENGLISH"],
+          "minor_options": ["HISTORY", "POLITICAL_SCIENCE"]
+        },
+        "common_components": ["AEC", "MDC", "SEC", "VAC"]
+      },
+
+      "3": {
+        "core_subjects": ["HINDI", "ENGLISH", "HISTORY"],
+        "major_minor_choice": { "enabled": false },
+        "common_components": ["AEC", "MDC", "SEC", "VAC"]
+      },
+
+      "4": {
+        "core_subjects": ["HINDI", "ENGLISH", "HISTORY"],
+        "major_minor_choice": { "enabled": false },
+        "common_components": ["AEC", "MDC", "SEC", "VAC"]
+      },
+
+      "5": {
+        "core_subjects": ["HINDI", "ENGLISH"],
+        "major_minor_choice": { "enabled": false },
+        "common_components": []
+      },
+
+      "6": {
+        "core_subjects": ["HINDI", "ENGLISH"],
+        "major_minor_choice": { "enabled": false },
+        "common_components": []
+      }
+    }
+  },
+
+  "BCOM": {
+    "semesters": {
+      "1": {
+        "core_subjects": ["SUBJECT_1", "SUBJECT_2"],
+        "major_minor_choice": { "enabled": false },
+        "common_components": ["AEC", "MDC", "SEC", "VAC"]
+      },
+
+      "2": {
+        "core_subjects": ["SUBJECT_1", "SUBJECT_2"],
+        "major_minor_choice": { "enabled": false },
+        "common_components": ["AEC", "MDC", "SEC", "VAC"]
+      },
+
+      "3": {
+        "core_subjects": ["SUBJECT_1", "SUBJECT_2"],
+        "major_minor_choice": { "enabled": false },
+        "common_components": ["AEC", "MDC", "SEC", "VAC"]
+      },
+
+      "4": {
+        "core_subjects": ["SUBJECT_1", "SUBJECT_2"],
+        "major_minor_choice": { "enabled": false },
+        "common_components": ["AEC", "MDC", "SEC", "VAC"]
+      },
+
+      "5": {
+        "core_subjects": ["SUBJECT_3", "SUBJECT_4"],
+        "major_minor_choice": { "enabled": false },
+        "common_components": []
+      },
+
+      "6": {
+        "core_subjects": ["SUBJECT_3", "SUBJECT_4"],
+        "major_minor_choice": { "enabled": false },
+        "common_components": []
+      }
+    }
+  }
+}
