@@ -6,18 +6,18 @@
     "syllabus_by_role": {
       "major": {
         "semesters": {
-          "1": { "theory": { "units": {"Unit I" : Fundamentals of Dynamics: Rigid body, Moment of Inertia, Radius of Gyration, Theorems of perpendicular and parallel axis (with proof), Moment of Inertia of ring, Disc, Angular Disc, Solid cylinder, Solid
+          "1": { "theory": { "units": {"Unit I" : "Fundamentals of Dynamics: Rigid body, Moment of Inertia, Radius of Gyration, Theorems of perpendicular and parallel axis (with proof), Moment of Inertia of ring, Disc, Angular Disc, Solid cylinder, Solid
 sphere, Hollow sphere, Rectangular plate, Square plate, Solid cone, Triangular plate, Torque, Rotational Kinetic Energy, Angular momentum, Law of conservation of angular momentum, Rolling motion, condition for pure rolling, acceleration of body rolling down an inclined plane, Fly
-wheel, Moment of Inertia of an irregular body.
-"Unit II" Elasticity: Deforming force, Elastic limit, stress, strain and their types,Hooke’s law, Modulus of rigidity, Relation between shear angle and angle of twist, elastic energy stored/volume in an elastic body, Elongation produced in heavy rod due to its own weight and elastic potential energy
+wheel, Moment of Inertia of an irregular body."
+"Unit II" : "Elasticity: Deforming force, Elastic limit, stress, strain and their types,Hooke’s law, Modulus of rigidity, Relation between shear angle and angle of twist, elastic energy stored/volume in an elastic body, Elongation produced in heavy rod due to its own weight and elastic potential energy
 stored in it, Tension in rotating rod, Poisson’s ratio and its limiting value, Elastic Constants and their relations. Torque required for twisting cylinder, Hollow shaft is stiffer than solid one. Bending of beam, bending moment
 and its magnitude, Flexural rigidity, Geometrical moment of inertia for beam of rectangular cross-section and circular cross-section. Bending of
-cantilever (loaded by a weight W at its free end), weight of cantilever uniformly distributed over its entire length. Dispersion of a centrally loaded beam supported at its ends, determination of elastic constants for material of wire by Searle’s method.
-"Unit III" Special Theory of Relativity: Michelson’s Morley experiment and its outcomes, Postulates of special theory of relativity, Lorentz
-Transformations, Simultaneity and order of events, Lorentz contraction,Time dilation, Relativistic transformation of velocity, relativistic addition of velocities, variation of mass-energy equivalence, relativistic Doppler effect, relativistic kinematics, transformation of energy and momentum, transformation of force, Problems of relativistic dynamics.
-"Unit IV" Gravitation and central force motion: Law of gravitation, Potential and field due to spherical shell and solid sphere. Motion of a particle under central force field, Two body problem and its reduction to one body problem and its solution, compound pendulum or physical pendulum inform of elliptical lamina and expression of time period, determination of g by means of bar pendulum, Normal coordinates and normal modes, Normal modes of vibration for given spring mass system, possible angular frequencies of oscillation of two identical simple pendulums of length (l) and small bob of mass (m0 joined together with spring of spring constant
-(k).} }, "practical": [1. Measurement of length (or diameter) using Vernier Caliper, screw
-gauge and travelling microscope.
+cantilever (loaded by a weight W at its free end), weight of cantilever uniformly distributed over its entire length. Dispersion of a centrally loaded beam supported at its ends, determination of elastic constants for material of wire by Searle’s method."
+"Unit III" : "Special Theory of Relativity: Michelson’s Morley experiment and its outcomes, Postulates of special theory of relativity, Lorentz
+Transformations, Simultaneity and order of events, Lorentz contraction,Time dilation, Relativistic transformation of velocity, relativistic addition of velocities, variation of mass-energy equivalence, relativistic Doppler effect, relativistic kinematics, transformation of energy and momentum, transformation of force, Problems of relativistic dynamics."
+"Unit IV": "Gravitation and central force motion: Law of gravitation, Potential and field due to spherical shell and solid sphere. Motion of a particle under central force field, Two body problem and its reduction to one body problem and its solution, compound pendulum or physical pendulum inform of elliptical lamina and expression of time period, determination of g by means of bar pendulum, Normal coordinates and normal modes, Normal modes of vibration for given spring mass system, possible angular frequencies of oscillation of two identical simple pendulums of length (l) and small bob of mass (m0 joined together with spring of spring constant
+(k).} }, "practical": ["1. Measurement of length (or diameter) using Vernier Caliper, screw
+gauge and travelling microscope."
 2. To study the random error in observations.
 3. To determine the area of window using a sextant.
 4. Moment of Inertia of a Fly Wheel
@@ -30,7 +30,7 @@ gauge and travelling microscope.
 11. To compare Moment of Inertia of a solid Sphere, Hollow Sphere and
 solid Disc of same mass with the help of Torsion Pendulum.
 12. To determine the bending moment of a cantilever beam with
-uniformly distributed load, uniformly varying load and point load.], "important_questions": [], "previous_year_papers": [] },
+uniformly distributed load, uniformly varying load and point load."], "important_questions": [], "previous_year_papers": [] },
           "2": { "theory": { "units": {} }, "practical": [], "important_questions": [], "previous_year_papers": [] }
         }
       },
