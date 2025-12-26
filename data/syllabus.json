@@ -22,7 +22,24 @@
           "To find the Poisson ratio of rubber by Rubber tube method.",
           "To compare Moment of Inertia of a solid Sphere, Hollow Sphere and solid Disc of same mass with the help of Torsion Pendulum.",
           "To determine the bending moment of a cantilever beam with uniformly distributed load, uniformly varying load and point load."], "important_questions": [], "previous_year_papers": [] },
-          "2": { "theory": { "units": {} }, "practical": [], "important_questions": [], "previous_year_papers": [] }
+          "2": { "theory": { "units": {"unit_1": "Vector Background and Electric Field: Gradient of a scalar and its physical significance, Line, Surface and Volume integrals of a vector and their physical significance, Flux of a vector field, Divergence and curl of a vector and their physical significance, Gauss’s divergence theorem, Stoke’s theorem. Conservative nature of Electrostatic Field, Electrostatic Potential, Potential as line integral of field, potential difference. Derivation of electric field E from potential as gradient. Derivation of Laplace and Poisson equations. Electric flux, Gauss’s Law, Differential form of Gauss’s law and applications of Gauss’s law. Mechanical force of charged surface, Energy per unit volume.",
+          "unit_2": "Magnetic Field: Biot-Savart law and its simple applications: straight wire and circular loop, Current Loop as a Magnetic Dipole and its Dipole Moment, Ampere’s Circuital Law and its applications to Solenoid and Toroid, properties of B: curl and divergence. Magnetic Properties of Matter: Force on a dipole in an external field, Electric currents in Atoms, Electron spin and Magnetic moment, types of magnetic materials, Magnetization vector (M), Magnetic Intensity (H), Magnetic Susceptibility and permeability, Relation between B, H and M, Electronic theory of dia and paramagnetism, Domain theory of ferromagnetism (Langevin’s theory), Cycle of Magnetization- B-H curve and hysteresis loop: Energy dissipation, Hysteresis loss and importance of Hysteresis Curve.",
+          "unit_3": "Time varying electromagnetic fields: Electromagnetic induction, Faraday’s laws of induction and Lenz’s Law, Self-inductance, Mutual inductance, Energy stored in a Magnetic field, Derivation of Maxwell’s equations, Displacement current, Maxwell’s equations in differential and integral form and their physical significance. Electromagnetic Waves: Electromagnetic waves, Transverse nature of electromagnetic wave, energy transported by electromagnetic waves, Poynting vector, Poynting’s theorem. Propagation of Plane electromagnetic waves in free space & Dielectrics.",
+          "unit_4": "DC current Circuits: Electric current and current density, Electrical conductivity and Ohm’s law (Review), Kirchhoff’s laws for D.C. networks, Network theorems: Thevenin’s theorem, Norton theorem, Superposition theorem. Alternating Current Circuits: A resonance circuit, Phasor, Complex Reactance and Impedance, Analysis for RL, RC and LC Circuits, Series LCR Circuit: Resonance, Power Dissipation, Quality Factor and Band Width, Parallel LCR Circuit."} }, "practical": ["Use of Multimeter for measuring Resistance, A.C. and D.C. Voltage and Current, checking of electrical fuses.",
+          "Low resistance by Carey Foster’s bridge with calibration.",
+          "Determination of Impedance of an A.C. circuit and its verification.",
+          "Frequency of A.C. mains using an electromagnet.",
+          "Frequency of A.C. mains Electrical vibrator.",
+          "High resistance by substitution method.",
+          "To compare capacitances using De’Sauty bridge.",
+          "To study the Characteristics of a Series RC Circuit.",
+          "To study a series LCR circuit and determine its Resonant frequency and Quality factor.",
+          "To study a parallel LCR circuit and determine its Anti-resonant frequency and Quality factor.",
+          "To verify the Thevenin and Norton theorems.",
+          "To verify the Superposition and Maximum Power Transfer Theorems.",
+          "Self-inductance by Anderson's bridge.",
+          "Verification of laws of electromagnetic induction.",
+          "Study of B-H curves of various materials using C.R.O."], "important_questions": [], "previous_year_papers": [] }
         }
       },
       "minor": {
