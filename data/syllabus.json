@@ -117,21 +117,14 @@
     "syllabus_by_role": {
       "major": {
         "semesters": {
-          "1": { "theory": { "units": {"Unit 1": "Atomic Structure
+          "1": { "theory": { "units": {"Unit I": "Atomic StructureDual behaviour of matter and radiation, de Broglie's relation, Heinsenberg's uncertainty principle, concept of atomic orbitals, significance of quantum numbers, radial and angular wave functions, normal and orthogonal wave functions, significance of and 4, shapes of s, p, d, f orbitals, Rules for filling electrons in various orbitals, effective nuclearcharge, Slater's rules Periodic table and atomic properties Classification of periodic table, definition of atomic and ionic radii, ionisation energy, electron affinity and electronegativity, trend in periodic table (in s and p-block elements), Pauling, Mulliken, Allred Rachow and Mulliken Jaffe's electronegativity scale, Sanderson's electron density ratio", 
 
-Dual behaviour of matter and radiation, de Broglie's relation, Heinsenberg's uncertainty principle, concept of atomic orbitals, significance of quantum numbers, radial and angular wave functions, normal and orthogonal wave functions, significance of and 4, shapes of s, p, d, f orbitals, Rules for filling electrons in various orbitals, effective nuclear
-charge, Slater's rules Periodic table and atomic properties
-Classification of periodic table, definition of atomic and ionic radii, ionisation energy, electron affinity and electronegativity, trend in periodic table (in s and p-block elements), Pauling, Mulliken, Allred Rachow and Mulliken Jaffe's electronegativity scale, Sanderson's electron density ratio", 
+"Unit II": "Gaseous State\n Kinetic theory of gases, Maxwell's distribution of velocities and energies (derivation excluded) Calculation of mot mean square velocity, average velocity, and most probable velocity. Collision diameter, collision mimber, collision frequency and mean free path (Derivations excluded), Deviation of Real gases from ideal behaviour, Derivation of Van der Waals Equation of State, its application in the calculation of Boyle's temperature (compression Critical Phenomenon Concept of Critical temperature, critical pressure, critical volume, relationship between critical constants and Van der Waal's constants (Derivation excluded).", 
 
-"Unit 2": "Gaseous State
-Kinetic theory of gases, Maxwell's distribution of velocities and energies (derivation excluded) Calculation of mot mean square velocity, average velocity, and most probable velocity. Collision diameter, collision mimber, collision frequency and mean free path (Derivations excluded), Deviation of Real gases from ideal behaviour, Derivation of Van der Waals Equation of State, its application in the calculation of Boyle's temperature (compression Critical Phenomenon Concept of Critical temperature, critical pressure, critical volume, relationship between critical constants and Van der Waal's constants (Derivation excluded).", 
+"unit III": "Structure and Bonding \n Localized and delocalized chemical bond, Van der Waals interactions. Concept of resonance and its applications, hyperconjugation, inductive effect, Electromeric effect andtheir comparison Mechanism of Organic Reactions Curved arrow notation, homolytic and heterolytic bond fission. Types of reagents: electrophiles and nucleophiles. Types of organic reactions: Substitution, Addition, Condensation, Elimination, Rearrangement, Isomerization and Pericyclic reactions. Reactive intermediates: Carbocations, carbanions, free radicals, carbenes (structure & stability).", 
 
-"unit III": "Structure and Bonding
-Localized and delocalized chemical bond, Van der Waals interactions. Concept of resonance and its applications, hyperconjugation, inductive effect, Electromeric effect andtheir comparison Mechanism of Organic Reactions Curved arrow notation, homolytic and heterolytic bond fission. Types of reagents: electrophiles and nucleophiles. Types of organic reactions: Substitution, Addition, Condensation, Elimination, Rearrangement, Isomerization and Pericyclic reactions. Reactive intermediates: Carbocations, carbanions, free radicals, carbenes (structure & stability).", 
-
-"Unit: IV" : "Liquid State
-Structure of liquids, Properties of liquids surface tension, refractive index, viscosity, vapour pressure ure and opti rotation. optical
-Solid State Classification of solids. Law of constancy of interfacial angles, law of rational indices, Miller indices, elementary ideas of symmetry and symmetry elements, seven crystal systems and fourteen Bravais lattices: X-ray diffraction, Bragg's law, simple account of Laue method, rotating crystal method and powder pattern method."} }, "practical": ["1.Acid/Base titration: Determination of strength of oxalic acid using NaOH.
+"Unit: IV" : "Liquid State \n Structure of liquids, Properties of liquids surface tension, refractive index, viscosity, vapour pressure ure and opti rotation. optical Solid State Classification of solids. Law of constancy of interfacial angles, law of rational indices, Miller indices, elementary ideas of symmetry and symmetry elements, seven crystal systems and fourteen Bravais lattices: X-ray diffraction, Bragg's law, simple account of Laue method, rotating crystal method and powder pattern method."} }, 
+            "practical": ["1.Acid/Base titration: Determination of strength of oxalic acid using NaOH.
 
 2. Redox titrations: Determination of Fe ions using KMO
 
@@ -139,7 +132,7 @@ Solid State Classification of solids. Law of constancy of interfacial angles, la
 
 5.Preparation of m-Dinitrobenzne from Nitrobenzene (use 1:2 conc. HNO-H:SO mixture if fuming HNO is not available. 
 6.Preparation of p-Bromoacetanilide from Acetanilide"], "important_questions": [], "previous_year_papers": [] },
-          "2": { "theory": { "units": {"Unit 1" : "Covalent Bond
+          "2": { "theory": { "units": {"Unit  1" : "Covalent Bond
 
 Valence bond theory approach, shapes of simple inorganic molecules and ions based on valence shell electron pair repulsion (VSEPR) theory and hybridization with suitable examples of linear, trigonal planar, square planar, tetrahedral, trigonal bipyramidal and octahedral arrangements. Molecular orbital theory of homonuclear (N₂, O₂) and heteronuclear (CO and NO) diatomic molecules, dipole moment and percentage ionic character in covalent bond.
 
