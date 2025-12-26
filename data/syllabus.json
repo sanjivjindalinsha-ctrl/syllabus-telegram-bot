@@ -117,19 +117,150 @@
     "syllabus_by_role": {
       "major": {
         "semesters": {
-          "1": { "theory": { "units": {} }, "practical": [], "important_questions": [], "previous_year_papers": [] },
-          "2": { "theory": { "units": {} }, "practical": [], "important_questions": [], "previous_year_papers": [] }
+          "1": { "theory": { "units": {"Unit 1": "Atomic Structure
+
+Dual behaviour of matter and radiation, de Broglie's relation, Heinsenberg's uncertainty principle, concept of atomic orbitals, significance of quantum numbers, radial and angular wave functions, normal and orthogonal wave functions, significance of and 4, shapes of s, p, d, f orbitals, Rules for filling electrons in various orbitals, effective nuclear
+charge, Slater's rules Periodic table and atomic properties
+Classification of periodic table, definition of atomic and ionic radii, ionisation energy, electron affinity and electronegativity, trend in periodic table (in s and p-block elements), Pauling, Mulliken, Allred Rachow and Mulliken Jaffe's electronegativity scale, Sanderson's electron density ratio", 
+
+"Unit 2": "Gaseous State
+Kinetic theory of gases, Maxwell's distribution of velocities and energies (derivation excluded) Calculation of mot mean square velocity, average velocity, and most probable velocity. Collision diameter, collision mimber, collision frequency and mean free path (Derivations excluded), Deviation of Real gases from ideal behaviour, Derivation of Van der Waals Equation of State, its application in the calculation of Boyle's temperature (compression Critical Phenomenon Concept of Critical temperature, critical pressure, critical volume, relationship between critical constants and Van der Waal's constants (Derivation excluded).", 
+
+"unit III": "Structure and Bonding
+Localized and delocalized chemical bond, Van der Waals interactions. Concept of resonance and its applications, hyperconjugation, inductive effect, Electromeric effect andtheir comparison Mechanism of Organic Reactions Curved arrow notation, homolytic and heterolytic bond fission. Types of reagents: electrophiles and nucleophiles. Types of organic reactions: Substitution, Addition, Condensation, Elimination, Rearrangement, Isomerization and Pericyclic reactions. Reactive intermediates: Carbocations, carbanions, free radicals, carbenes (structure & stability).", 
+
+"Unit: IV" : "Liquid State
+Structure of liquids, Properties of liquids surface tension, refractive index, viscosity, vapour pressure ure and opti rotation. optical
+Solid State Classification of solids. Law of constancy of interfacial angles, law of rational indices, Miller indices, elementary ideas of symmetry and symmetry elements, seven crystal systems and fourteen Bravais lattices: X-ray diffraction, Bragg's law, simple account of Laue method, rotating crystal method and powder pattern method."} }, "practical": ["1.Acid/Base titration: Determination of strength of oxalic acid using NaOH.
+
+2. Redox titrations: Determination of Fe ions using KMO
+
+3.To determine the surface tenoon of given liquid using Stalagmometer by drop no. methods.
+
+5.Preparation of m-Dinitrobenzne from Nitrobenzene (use 1:2 conc. HNO-H:SO mixture if fuming HNO is not available. 
+6.Preparation of p-Bromoacetanilide from Acetanilide"], "important_questions": [], "previous_year_papers": [] },
+          "2": { "theory": { "units": {"Unit 1" : "Covalent Bond
+
+Valence bond theory approach, shapes of simple inorganic molecules and ions based on valence shell electron pair repulsion (VSEPR) theory and hybridization with suitable examples of linear, trigonal planar, square planar, tetrahedral, trigonal bipyramidal and octahedral arrangements. Molecular orbital theory of homonuclear (N₂, O₂) and heteronuclear (CO and NO) diatomic molecules, dipole moment and percentage ionic character in covalent bond.
+
+Ionic Solids
+Ionic structures (NaCl, CsCI, ZnS (Zinc blende), CaF2) size effects, radius ratio rule and its limitations, Concept of Lattice energy. Born- Haber cycle, Solvation energy and its relationship with solubility of Ionic solids, Polarizing power and Polarisability of ions, Fajan's rule.", 
+
+"Unit 2" : "Chemical Kinetics
+
+Concept of reaction rates, rate equation, factors influencing the rate of reaction, Order and molecularity of a reaction, integrated rate expression for zero, first, Half-life period of a reaction, Arrhenius equation.
+
+Distribution Law
+
+Nernst distribution law its thermodynamic derivation, Nernst distribution law after association and dissociation of solute in one of the phases, of distribution law: (i) Determination of degree of hydrolysis and bydrolysis constant of aniline hydrochloride", 
+
+
+"Unit 3": "Alkanes and Cycloalkanes
+
+Nomenclature, classification of carbon atoms in alkanes and its structure. Isomerism in alkanes, sources. Methods of formation: Wurtz reaction, Kolbe reaction, Corey-House reaction and decarboxylation of carboxylic acids, physical properties. Mechanism of free radical halogenation of alkanes: reactivity and selectivity.
+
+Nomenclature of Cycloalkanes, Baeyer's strain theory and its limitations, theory of strainless rings. 
+Alkenes
+
+Nomenclature of alkenes and its structure. Methods of formation: dehydration of alcohols, dehydrohalogenation of alkyl halide, Hofmann elimination and their mechanism. The Saytzeff rule and relative stabilities of alkenes. Chemical reactions: electrophilic and free radical additions, addition of halogens, halogen acids, hydroboration-oxidation, oxymercuration-reduction, ozonolysis and hydration.. Markownikoff's rule of addition.", 
+
+"Unit IV" : "Hydrogen Bonding and Van der Waals forces
+
+
+Hydrogen Bonding - Definition, types, effects of hydrogen bonding on properties of substances, application Brief discussion of various types of Van der Waals forces. Metallic Bond and semiconductors
+
+Metallic bond-Qualitative idea of valence bond and Band theories of metallic bond (conductors, semiconductors,insulators).
+Semiconductors Introduction, types, and applications."} }, "practical": ["1. Complexometric titrations: Determination of Mg by EDTA.
+
+2. Paper Chromatography: Qualitative Analysis of any one
+
+of the following Inorganic cations and anions by paper chromatography (Pb, Cu², Ni, Cl, Br, and PO and NO)
+
+3. To determine the viscosity of given liquid using Ostwald's Viscometer.
+
+4. To determine the specific refractivity of at least two liquids
+by Refractometer.
+
+5. Separation of mixture of two Organic Compounds by TLC."], "important_questions": [], "previous_year_papers": [] }
         }
       },
       "minor": {
         "semesters": {
-          "1": { "theory": { "units": {} }, "practical": [], "important_questions": [], "previous_year_papers": [] },
-          "2": { "theory": { "units": {} }, "practical": [], "important_questions": [], "previous_year_papers": [] }
+          "1": { "theory": { "units": {"Unit 1": "Covalent Bond Valence bond theory approach, shapes of simple inorganic molecules and ions based on valence shell electron pair repulsion (VSEPR) theory and hybridization with suitable examples of linear, trigonal planar, square planar, tetrahedral, trigonal bipyramidal and octahedral arrangements. Molecular orbital theory of homonuclear (N2, O2) and heteronuclear (CO and NO) diatomic molecules, dipole moment and percentage ionic character in covalent bond.", 
+
+"Unit 2" : "Chemical Kinetics
+ Concept of reaction rates, rate equation, factors influencing the rate of reaction, Order and molecularity of a reaction, integrated rate expression for zero, first, second order reactions (for equal conc. of reactants), Half-life period of a reaction.", 
+
+
+"Unit 3" : "Alkanes (upto 5 carbon atoms)
+Alkanes, nomenclature, classification of carbon atoms in alkanes. Isomerism in alkanes, sources, methods of formation: Wurtz reaction, Kolbe reaction, Corey-House reaction and decarboxylation of carboxylic acids, physical properties. Mechanism of free radical halogenation of alkanes: reactivity and selectivity.", 
+
+"Unit IV" : "Metallic Bond and semiconductors Metallic bond Qualitative idea of valence bond and Band theories of metallic bond (conductors, semiconductors, insulators).
+Semiconductors Introduction, types, and applications." } }, "practical": [], "important_questions": [], "previous_year_papers": [] },
+          "2": { "theory": { "units": {"Unit I" :  "Periodic table and atomic properties Atomic properties: atomic and ionic radii, ionisation energy, electron affinity and electronegativity definition, methods of determination or evaluation, trend in periodic table, effective nuclear charge, Slater's rules. Directional characteristics of covalent bond, various type of hybridisation and shapes of simple inorganic molecules and ions (BeF2, BF3, CH4, PF5, SF6, IF7, SO4, CIO, NO3", 
+
+"Unit II" : "Ionic Solids: 
+Stoichiometric and Non-stoichiometric defects in crystals, Lattice energy and Born- Haber cycle, Solvation energy and its relationship with solubility of Ionic solids, Polarizing power and Polarisability of ions, Fajan's rule. Metallic bond -Qualitative idea of valence bond and Band theories of metallic bond (conductors, semiconductors, insulators)", 
+
+"Unit III": "Metallic Bond and semiconductors Semiconductors - Introduction, types, and applications. Structure and Bonding in Organic Compounds Localized and delocalized chemic al bond, Van der Waal's interactions, resonance: conditions, resonance effect and its applications, hyperconjugation, inductive effect, Electromeric effect & their comparison.", 
+
+"Unit IV" : "Stereochemistry of Organic Compounds
+
+Concept of isomerism. Types of isomerism. Optical isomerism, element s of symmetry, enantiomers, stereo genic centre, optical activity, properties of enantiomers, chiral and achiral molecules (upto two stereo genic centres), diastereomers, threo and erythro diastereomers, meso compounds Relative and absolute configuration, sequence rules, R & S systems of nomenclature. Geometrical isomerism. Determination of configuration of geometric isomers."} }, "practical": [], "important_questions": [], "previous_year_papers": [] }
         }
       },
       "regular": {
         "semesters": {
-          "3": { "theory": { "units": {} }, "practical": [] },
+          "3": { "theory": { "units": {"Unit 1" : "s and p-Block Elements
+
+Salient features of hydrides, oxides, halides, hydroxides of s-block elements (methods of preparation excluded).
+Structure, preparation and properties of Diborane and Borazine.
+Catenation, carbides, fluorocarbons, silicates (structural aspects), structure of oxides of Nitrogen and Phosphorous, structure of white and red phosphorus.
+Structure of oxyacids of Nitrogen, phosphorous, sulphur and chlorine and comparison of acidic strength of oxyacids. low chemical reactivity of noble gases, chemistry of xenon, structure and bonding in fluorides, oxides and oxyfluorides of xenon.", 
+
+"Unit II" : "Electrochemistry-I
+
+Electrolytic conduction, factors affecting electrolytic conduction, specific conductance, molar conductance, equivalent conductance and relation among them, their variation with concentration. Application of Kohlrausch's Law in calculation of conductance of weak electrolytes at infinite dilution (Numericals)
+
+Concepts of pH and pK., Buffer solution, Buffer action, Henderson Hazel equation, Buffer mechanism of buffer action.
+
+Electrochemistry-II
+
+Reversible & irreversible cells, Calculation of thermodynamic quantities of cell reaction (AG, AH & K). Types of reversible electrodes metal- metal ion, gas. electrode, metal insoluble salt- anion and redox electrodes. Nernst equation, Standard Hydrogen electrode, reference electrodes, Applications of EMF measurement in solubility product and potentiometric titrations using glass electrode.", 
+
+"Unit III" : "Alkynes
+
+Nomenclature and its structure. Methods of formation: using Calcium carbide, dehydrohalogenation, Kolbe's electrolysis. Chemical reactions: Mechanism of electrophilic and nucleophilic addition reactions, formation of metal acetylides, addition of bromine and alkaline KMnO4, ozonolysis. Acidity of alkynes.
+
+Stereochemistry of Organic Compounds
+
+Concept of isomerism: Structural and Stereoisomerism. Symmetry elements, enantiomers, optical activity, properties of enantiomers, chiral and achiral molecules (up-to 2 asymmetric centres), diastereomers, threo- and erythro-nomenclature, meso-compounds, Relative and absolute configuration, sequence rules, R and S system of nomenclature. Cis- Trans isomerism, E & Z system of nomenclature, Conformational analysis of ethane and n-butane, conformations of cyclohexane, axial and equatorial bonds. Newman and Sawhorse projection formulae.", 
+
+"Unit 4" : "Benzene and its derivatives:
+
+Nomenclature, Aromatic nucleus and side chain, Huckels' rule of aromaticity.
+
+Aromatic electrophilic substitution, mechanism of nitration, halogenation, sulphonation, and Friedel- Crafts reaction. Energy profile diagrams. Activating, deactivating substituents and orientation.
+
+Alkyl halides: Nomenclature, methods of formation: from alkenes and alcohol, nucleophilic substitution reactions of alkyl halides. SN2 and SN1 reactions with energy profile diagrams.
+
+Aryl halides: Methods of formation: halogenation. Sandmeyer reaction. The addition-elimination, and the elimination-addition mechanisms of nucleophilic aromatic substitution reactions.
+
+Relative reactivities of alkyl halides vs allyl, vinyl, and aryl halides.",} }, "practical": ["1. Gravimetriic Analysis: Estimation of Ni2+ as Ni-dimethylglyoxime and Al as Al-oxinate.
+
+2. Colorimetry: To verify Beer-Lambert law for KMnO4 /K2Cr2O7 and determine the unknown concentration of the given solution of KMnO4/K2Cr2O7 solution.
+
+3. To prepare acidic and basic buffer solutions of pH 5 and 9 respectively.
+
+4. Preparation of Cuprous chloride, tetra ammine cupric sulphate.
+
+5. To determine the CST of phenol-water system.
+
+6. To determine the solubility of Benzoic acid at various temperatures and to determine the AH of the dissolution process.
+
+7. To determine the Enthalpy of neutralisation of strong base Vs strong acid and weak acid/weak base Vs. strong base/strong acid and determine the enthalpy of ionisation of the weak acid/weak base
+
+8. Determine the rate constant of hydrolysis of ethyl acetate."] },
           "4": { "theory": { "units": {} }, "practical": [] },
           "5": { "theory": { "units": {} }, "practical": [] },
           "6": { "theory": { "units": {} }, "practical": [] }
