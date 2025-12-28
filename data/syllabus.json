@@ -218,7 +218,9 @@
       },
       "minor": {
         "semesters": {
-          "1": { "theory": { "units": {} }, "practical": [] },
+          "1": { "theory": { "units": {"Unit 1": "Introduction to Computers: Definition of Computers, History\nand Generations of Computers, Characteristics of computer,\nClassification of Computers. Fundamental Block diagram of\nComputer: CPU, Input & Output Unit.II Software: Definition of Software, Types of Software-Systemsoftware, Application software and Utility software. Types of Computer Languages, Assemblers, Interpreters, Compiler.",
+    "Unit III": "Introduction to OperatingSystems: Types of Operating System,Functions of Operating System.\nWindows: Introduction to Windows, Starting Windows, Desk\nTop, Task Bar, Opening and closing applications, iconscreating, renaming and removing. Date and Time setting, Working with files and folders-creating, deleting, opening,finding, copying, moving, and renaming.",
+    "Unit IV": "Networking: Concept, Basic Elements of a Communication System, Data Transmission Media, LAN, MAN, WAN. Introduction of Internet and WWW, Basic working of a Web\nBrowser, Introduction to popular web browsers."} }, "practical": [] },
           "2": { "theory": { "units": {} }, "practical": [] }
         }
       },
