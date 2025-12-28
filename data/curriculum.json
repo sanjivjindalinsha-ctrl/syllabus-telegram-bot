@@ -82,13 +82,13 @@
       },
 
       "5": {
-        "core_subjects": ["BOTANY", "ZOOLOGY"],
+        "core_subjects": ["BOTANY", "CHEMISTRY","ZOOLOGY"],
         "major_minor_choice": { "enabled": false },
         "common_components": []
       },
 
       "6": {
-        "core_subjects": ["BOTANY", "ZOOLOGY"],
+        "core_subjects": ["BOTANY","CHEMISTRY", "ZOOLOGY"],
         "major_minor_choice": { "enabled": false },
         "common_components": []
       }
