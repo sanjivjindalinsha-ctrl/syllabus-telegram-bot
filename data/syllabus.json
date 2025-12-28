@@ -108,7 +108,7 @@
         }
       }
     }
-  },
+   } } , 
 
   "CHEMISTRY": {
     "display_name": "Chemistry",
@@ -196,8 +196,7 @@
   "Unit 4": "Amino Acids, Peptides\n\nAmino acids, Peptides, and their classification. a-Amino Acids-Synthesis, ionic properties, and reactions. Zwitterions, pKa values, isoelectric point, and electrophoresis: Study of peptides: Synthesis of peptides using N-protecting, C-protecting, and C- activating groups.\n\nCarbohydrates\n\nOccurrence, classification, and their biological importance. Monosaccharides: Constitution and absolute configuration of glucose and fructose, epimers and anomers, mutarotation, determination of ring size of glucose and fructose, Haworth projection and conformational structures: Interconversion of aldoses and ketoses; Killiani-Fischer synthesis and Ruff degradation."} }, "practical": ["1. To determine the strength of given acid solution (mono acid only) conductometrically.\n\n2. To determine the solubility and solubility product of sparingly soluble salt using conductometer.\n\n3. To determine the strength of given Mohr's salt solution using potentiometer.\n\n4. To determine the molecular weight of organic compound by Rast method.\n\n5. To determine the specific rotation of an optically active substanceby polarimeter.\n\n6. To prepare a sample of p-bromoaniline from p-bromoacetanilide. 7. To prepare a sample of cuprous chloride.\n\n8. To study the photochemical reaction of benzophenone and isopropyl alcohol."] }
         }
       }
-    }
-  },
+  ,
 
   "COMPUTER_SCIENCE": {
     "display_name": "Computer Science",
