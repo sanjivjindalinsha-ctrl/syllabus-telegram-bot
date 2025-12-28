@@ -5,8 +5,8 @@
         "core_subjects": [],
         "major_minor_choice": {
           "enabled": true,
-          "major_options": ["PHYSICS", "CHEMISTRY"],
-          "minor_options": ["MATHEMATICS", "COMPUTER_SCIENCE"]
+          "major_options": ["PHYSICS", "MATHEMATICS"],
+          "minor_options": ["CHEMISTRY", "COMPUTER_SCIENCE"]
         },
         "common_components": ["AEC", "MDC", "SEC", "VAC"]
       },
@@ -15,32 +15,32 @@
         "core_subjects": [],
         "major_minor_choice": {
           "enabled": true,
-          "major_options": ["PHYSICS", "CHEMISTRY"],
-          "minor_options": ["MATHEMATICS", "COMPUTER_SCIENCE"]
+          "major_options": ["PHYSICS", "MATHEMATICS"],
+          "minor_options": ["CHEMISTRY", "COMPUTER_SCIENCE"]
         },
         "common_components": ["AEC", "MDC", "SEC", "VAC"]
       },
 
       "3": {
-        "core_subjects": ["PHYSICS", "CHEMISTRY", "MATHEMATICS"],
+        "core_subjects": ["PHYSICS", "CHEMISTRY",  "MATHEMATICS, "COMPUTER_SCIENCE"], 
         "major_minor_choice": { "enabled": false },
         "common_components": ["AEC", "MDC", "SEC", "VAC"]
       },
 
       "4": {
-        "core_subjects": ["PHYSICS", "CHEMISTRY", "MATHEMATICS"],
+        "core_subjects": ["PHYSICS", "CHEMISTRY","COMPUTER_SCIENCE", "MATHEMATICS"],
         "major_minor_choice": { "enabled": false },
         "common_components": ["AEC", "MDC", "SEC", "VAC"]
       },
 
       "5": {
-        "core_subjects": ["PHYSICS", "CHEMISTRY"],
+        "core_subjects": ["PHYSICS", "MATHEMATICS","COMPUTER_SCIENCE", "CHEMISTRY"],
         "major_minor_choice": { "enabled": false },
         "common_components": []
       },
 
       "6": {
-        "core_subjects": ["PHYSICS", "CHEMISTRY"],
+        "core_subjects": ["PHYSICS", "MATHEMATICS", "COMPUTER_SCIENCE","CHEMISTRY"],
         "major_minor_choice": { "enabled": false },
         "common_components": []
       }
