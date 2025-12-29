@@ -58,24 +58,43 @@ def build_subject_keyboard(course_id, semester, role):
 
     for sid, subject in SYLLABUS.items():
 
-        # Common components (AEC/MDC/SEC/VAC)
-        if subject.get("common_component"):
-            if semester > 4:
-                continue
-        else:
+        is_common = subject.get("common_component", False)
+
+        # ---- Course applicability ----
+        if not is_common:
             if course_id not in subject.get("applicable_courses", []):
                 continue
+        else:
+            # common components only for sem 1–4
+            if semester > 4:
+                continue
 
-        if role not in subject["syllabus_by_role"]:
-            continue
+        roles = subject.get("syllabus_by_role", {})
 
-        if str(semester) not in subject["syllabus_by_role"][role]["semesters"]:
-            continue
+        # ---- Role handling ----
+        if role in roles:
+            role_to_use = role
+        elif "regular" in roles:
+            role_to_use = "regular"
+        else:
+            # For common components without roles yet, allow display
+            if is_common:
+                role_to_use = "regular"
+            else:
+                continue
+
+        semesters = roles.get(role_to_use, {}).get("semesters", {})
+
+        # ---- Semester handling ----
+        if not is_common:
+            if str(semester) not in semesters:
+                continue
+        # if common → allow even if semester not present
 
         keyboard.append([
             InlineKeyboardButton(
                 subject["display_name"],
-                callback_data=f"U|{course_id}|{semester}|{role}|{sid}"
+                callback_data=f"U|{course_id}|{semester}|{role_to_use}|{sid}"
             )
         ])
 
@@ -196,6 +215,9 @@ async def callback_router(update: Update, context: ContextTypes.DEFAULT_TYPE):
         elif content == "papers":
             text += "Previous year papers will be added soon."
 
+        if not semesters or str(semester) not in semesters:
+            text = "Syllabus will be added soon."
+    
         await query.edit_message_text(
             text,
             parse_mode="Markdown",
