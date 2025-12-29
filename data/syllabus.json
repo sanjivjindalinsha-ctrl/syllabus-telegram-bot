@@ -421,7 +421,78 @@
       }
     }
   },
-  
+
+  "MUSIC": {
+    "display_name": "Music",
+    "type": "theory_practical",
+    "applicable_courses": ["BA"],
+    "syllabus_by_role": {
+      "regular": {
+        "semesters": {
+          "1": { "theory": { "units": {} }, "practical": [] },
+          "2": { "theory": { "units": {} }, "practical": [] },
+          "3": { "theory": { "units": {} }, "practical": [] },
+          "4": { "theory": { "units": {} }, "practical": [] },
+          "5": { "theory": { "units": {} }, "practical": [] },
+          "6": { "theory": { "units": {} }, "practical": [] }
+        }
+      }
+    }
+  },
+
+  "POLITICAL_SCIENCE": {
+    "display_name": "Political_ science",
+    "type": "theory_only",
+    "applicable_courses": ["BA"],
+    "syllabus_by_role": {
+      "regular": {
+        "semesters": {
+          "1": { "theory": { "units": {} } },
+          "2": { "theory": { "units": {} } },
+          "3": { "theory": { "units": {} } },
+          "4": { "theory": { "units": {} } },
+          "5": { "theory": { "units": {} } },
+          "6": { "theory": { "units": {} } }
+        }
+      }
+    }
+  },
+
+  "HISTORY": {
+    "display_name": "History",
+    "type": "theory_only",
+    "applicable_courses": ["BA"],
+    "syllabus_by_role": {
+      "regular": {
+        "semesters": {
+          "1": { "theory": { "units": {} } },
+          "2": { "theory": { "units": {} } },
+          "3": { "theory": { "units": {} } },
+          "4": { "theory": { "units": {} } },
+          "5": { "theory": { "units": {} } },
+          "6": { "theory": { "units": {} } }
+        }
+      }
+    }
+  },
+
+  "ECONOMICS": {
+    "display_name": "Economics",
+    "type": "theory_only",
+    "applicable_courses": ["BA"],
+    "syllabus_by_role": {
+      "regular": {
+        "semesters": {
+          "1": { "theory": { "units": {} } },
+          "2": { "theory": { "units": {} } },
+          "3": { "theory": { "units": {} } },
+          "4": { "theory": { "units": {} } },
+          "5": { "theory": { "units": {} } },
+          "6": { "theory": { "units": {} } }
+        }
+      }
+    }
+  },
 
   "AEC": {
     "display_name": "Ability Enhancement Course (AEC)",
