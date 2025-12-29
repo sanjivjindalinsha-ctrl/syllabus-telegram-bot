@@ -256,6 +256,24 @@
   },
   
 
+  "MATHEMATICS": {
+    "display_name": "Mathematics",
+    "type": "theory_practical",
+    "applicable_courses": ["BA" , "BSC"],
+    "syllabus_by_role": {
+      "regular": {
+        "semesters": {
+          "1": { "theory": { "units": {} }, "practical": [] },
+          "2": { "theory": { "units": {} }, "practical": [] },
+          "3": { "theory": { "units": {} }, "practical": [] },
+          "4": { "theory": { "units": {} }, "practical": [] },
+          "5": { "theory": { "units": {} }, "practical": [] },
+          "6": { "theory": { "units": {} }, "practical": [] }
+        }
+      }
+    }
+  },
+  
   "BOTANY": {
     "display_name": "Botany",
     "type": "theory_practical",
