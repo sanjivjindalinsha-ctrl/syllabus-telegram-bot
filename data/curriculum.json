@@ -53,8 +53,8 @@
         "core_subjects": [],
         "major_minor_choice": {
           "enabled": true,
-          "major_options": ["BOTANY", "ZOOLOGY"],
-          "minor_options": ["CHEMISTRY", "COMPUTER_SCIENCE"]
+          "major_options": ["BOTANY",  "CHEMISTRY",  "ZOOLOGY"],
+          "minor_options": ["COMPUTER_SCIENCE"]
         },
         "common_components": ["AEC", "MDC", "SEC", "VAC"]
       },
@@ -63,8 +63,8 @@
         "core_subjects": [],
         "major_minor_choice": {
           "enabled": true,
-          "major_options": ["BOTANY", "ZOOLOGY"],
-          "minor_options": ["CHEMISTRY", "COMPUTER_SCIENCE"]
+          "major_options": ["BOTANY", "CHEMISTRY", "ZOOLOGY"],
+          "minor_options": [ "COMPUTER_SCIENCE"]
         },
         "common_components": ["AEC", "MDC", "SEC", "VAC"]
       },
