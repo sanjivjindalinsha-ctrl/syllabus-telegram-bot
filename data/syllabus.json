@@ -259,7 +259,7 @@
   "MATHEMATICS": {
     "display_name": "Mathematics",
     "type": "theory_practical",
-    "applicable_courses": ["BA" , "BSC"],
+    "applicable_courses": ["BA" , "BSC_PHYSICAL_SCIENCE"],
     "syllabus_by_role": {
       "regular": {
         "semesters": {
